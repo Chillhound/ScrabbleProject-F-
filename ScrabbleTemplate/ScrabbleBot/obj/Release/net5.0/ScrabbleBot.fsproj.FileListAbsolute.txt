@@ -1,0 +1,9 @@
+E:\Git-projects\F#\ScrabbleTemplate\ScrabbleBot\bin\Release\net5.0\FSharp.Core.xml
+E:\Git-projects\F#\ScrabbleTemplate\ScrabbleBot\obj\Release\net5.0\ScrabbleBot.fsprojAssemblyReference.cache
+E:\Git-projects\F#\ScrabbleTemplate\ScrabbleBot\obj\Release\net5.0\ScrabbleBot.AssemblyInfoInputs.cache
+E:\Git-projects\F#\ScrabbleTemplate\ScrabbleBot\obj\Release\net5.0\ScrabbleBot.AssemblyInfo.fs
+E:\Git-projects\F#\ScrabbleTemplate\ScrabbleBot\bin\Release\net5.0\ForeverBot.deps.json
+E:\Git-projects\F#\ScrabbleTemplate\ScrabbleBot\bin\Release\net5.0\ForeverBot.dll
+E:\Git-projects\F#\ScrabbleTemplate\ScrabbleBot\bin\Release\net5.0\ForeverBot.pdb
+E:\Git-projects\F#\ScrabbleTemplate\ScrabbleBot\obj\Release\net5.0\ForeverBot.dll
+E:\Git-projects\F#\ScrabbleTemplate\ScrabbleBot\obj\Release\net5.0\ForeverBot.pdb
